@@ -14,12 +14,12 @@ Busco evolução real, prática, com projetos constantes e disciplina.
 ## 🧠 Stack Atual
 
 ### **Linguagens**
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,html,css" />
 </div>
 
 ### **Frameworks & Ferramentas**
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=angular,bootstrap,nodejs,git,github,docker,vscode" />
 </div>
 
@@ -32,10 +32,6 @@ Busco evolução real, prática, com projetos constantes e disciplina.
 - Construindo APIs com **Node.js**.
 - Entendendo pipeline DevOps: containers com **Docker** e versionamento limpo com **Git Flow**.
 - Estudo contínuo baseado em projetos reais.
-
----
-
-
 
 ---
 
