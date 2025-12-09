@@ -1,57 +1,77 @@
+<!-- CABEÇALHO -->
 <div align="center">
 
-# 👋 Olá! Seja bem-vindo ao meu perfil  
-## David Ryan — Desenvolvedor em Formação | Full Stack em Construção
+# 👨‍💻 David Ryan  
+### Desenvolvedor Full Stack em Formação
 
-Sou um estudante de tecnologia focado em desenvolvimento Full Stack. Aqui você encontra minha evolução diária, projetos práticos e estudos que estou consolidando nas principais linguagens e frameworks atuais.
+Estudo desenvolvimento com foco em criar aplicações modernas, eficientes e bem estruturadas.  
+Busco evolução real, prática, com projetos constantes e disciplina.
 
-[![Status](https://img.shields.io/badge/Status-Aprendizado%20Contínuo-0A9396?style=for-the-badge)](https://github.com/DavidRy2)
+<br>
+
+<!-- STATUS -->
+<img src="https://img.shields.io/badge/Status-Aprendizado_Contínuo-0A9396?style=for-the-badge">
 
 </div>
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+## 🧠 Stack Atual
 
-Atualmente estudo e aplico:
-
-### 🔹 **Linguagens**
-<div>
-  <img src="https://skillicons.dev/icons?i=java,cs,python,js,html,css" />
+### **Linguagens**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,html,css" />
 </div>
 
-### 🔹 **Frameworks & Ferramentas**
-<div>
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,git,github,vscode" />
+### **Frameworks & Ferramentas**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,nodejs,git,github,docker,vscode" />
 </div>
 
 ---
 
-## 🚀 Minha Evolução
+## 🚀 Evolução e Foco Atual
 
-- Aprimorando **Angular** para criação de aplicações SPA.
-- Desenvolvendo projetos com foco em **POO** (Java & C#).
-- Começando a integrar ferramentas de ambiente e automação como **Docker**.
-- Uso constante de **Git/GitHub** para versionamento e organização dos estudos.
+- Dominando **Angular** com boas práticas (arquitetura, módulos, serviços, rxjs).
+- Aperfeiçoando **POO** em **Java** e **C#**.
+- Construindo APIs com **Node.js**.
+- Entendendo pipeline DevOps: containers com **Docker** e versionamento limpo com **Git Flow**.
+- Estudo contínuo baseado em projetos reais.
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Minhas Estatísticas
 
 <div align="center">
 
-<!-- Estatísticas gerais -->
+<!-- Stats -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=DavidRy2&show_icons=true&theme=nord&count_private=true" 
-  alt="Estatísticas do GitHub"
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=DavidRy2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
 />
 
-<!-- Linguagens mais usadas -->
+<!-- Linguagens -->
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRy2&layout=compact&theme=nord&langs_count=6" 
-  alt="Linguagens mais usadas"
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRy2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
 />
 
+<!-- Streak -->
+<img 
+  height="180em"
+  src="https://streak-stats.demolab.com?user=DavidRy2&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+## 🏆 Conquistas & Títulos
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=DavidRy2&theme=tokyonight&no-frame=true&row=1&margin-w=12" 
+  />
 </div>
 
 ---
@@ -60,12 +80,12 @@ Atualmente estudo e aplico:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -73,5 +93,6 @@ Atualmente estudo e aplico:
 ---
 
 <div align="center">
-  <sub>Construindo um desenvolvedor, um commit por vez.</sub>
+  <sub>Disciplina vence talento. Um commit por vez.</sub>
 </div>
+
