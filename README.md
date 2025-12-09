@@ -18,7 +18,7 @@ Busco evolução real, prática, com projetos constantes e disciplina.
 
 ### **Frameworks & Ferramentas**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,nodejs,git,github,react,vscode" />
 </div>
 
 ---
