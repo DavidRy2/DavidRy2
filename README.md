@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1>  👨‍💻 David Ryan  </h1> 
-### Desenvolvedor Full Stack em Formação
+Desenvolvedor Full Stack em Formação
 
 Estudo desenvolvimento com foco em criar aplicações modernas, eficientes e bem estruturadas.  
 Busco evolução real, prática, com projetos constantes e disciplina.
@@ -11,8 +11,6 @@ Busco evolução real, prática, com projetos constantes e disciplina.
 
 ---
 
-## 🧠 Stack Atual
-
 ### **Linguagens**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,html,css" />
@@ -20,7 +18,7 @@ Busco evolução real, prática, com projetos constantes e disciplina.
 
 ### **Frameworks & Ferramentas**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,nodejs,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,nodejs,git,github,vscode" />
 </div>
 
 ---
