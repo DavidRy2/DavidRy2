@@ -60,6 +60,6 @@ Busco evolução real, prática, com projetos constantes e disciplina.
 ---
 
 <div align="center">
-  <sub>Disciplina vence talento. Um commit por vez.</sub>
+  <h2>Disciplina vence talento. Um commit por vez.</h2>
 </div>
 
