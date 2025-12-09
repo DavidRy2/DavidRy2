@@ -1,7 +1,7 @@
 <!-- CABEÇALHO -->
 <div align="center">
 
-<h1>  👨‍💻 David Ryan  </h1> 
+<h1>   David Ryan  </h1> 
 Desenvolvedor Full Stack em Formação
 
 Estudo desenvolvimento com foco em criar aplicações modernas, eficientes e bem estruturadas.  
