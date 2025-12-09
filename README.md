@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### 💖 Tech Radar
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,php,docker" />
 <!--
 **DavidRy2/DavidRy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
