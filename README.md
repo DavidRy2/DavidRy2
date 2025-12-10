@@ -13,7 +13,7 @@ Busco evolução real, prática, com projetos constantes e disciplina.
 
 ### **Linguagens**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,cs,python,js,html,css" />
 </div>
 
 ### **Frameworks & Ferramentas**
